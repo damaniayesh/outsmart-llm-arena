@@ -82,7 +82,7 @@ def display_chart(arena: Arena, header_container: st.container):
         st.line_chart(
             data=arena.table(),
             height=300,
-            color=["#FFA500", "#FF4500", "#FFD700", "#8B4513"],
+            color=["#FFA500", "#FF4500", "#FFD700", "#8B4513",   "#1E90FF"],
         )
 
 

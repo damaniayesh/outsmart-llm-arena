@@ -26,7 +26,7 @@ st.set_page_config(
     layout="wide",
     page_title="Outsmart",
     menu_items={
-        "About": "Outsmart is an LLM arena that pits LLMs against each other in a battle of negotiation. More at https://edwarddonner.com/2024/08/06/outsmart/"
+        "About": "Outsmart is an LLM arena that pits LLMs against each other in a battle of negotiation. More at ( my Blog or portfolio website link))"
     },
     page_icon="🧠",
     initial_sidebar_state="collapsed",

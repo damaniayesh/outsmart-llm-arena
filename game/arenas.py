@@ -140,9 +140,9 @@ class Arena:
             return [
                 "openai/gpt-oss-120b",
                 "gpt-5-nano",
-                # "gemini-2.5-pro",
+                "gemini-3.8-flash",
                 "grok-4-fast",
-                "claude-haiku-4-5",
+                "claude-sonnet-4-5",
             ]
 
     @classmethod
