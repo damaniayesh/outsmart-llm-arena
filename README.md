@@ -12,7 +12,6 @@ license: mit
 fullWidth: true
 header: mini
 tags: ["arena", "benchmark", "leaderboard"]
-thumbnail: https://edwarddonner.com/wp-content/uploads/2024/08/outsmart.jpg
 ---
 
 # Outsmart
@@ -21,9 +20,8 @@ thumbnail: https://edwarddonner.com/wp-content/uploads/2024/08/outsmart.jpg
 Outsmart is an LLM Arena that pits AI models against each other
 in a game of strategy and negotiation.
 
-[Play the game](https://edwarddonner.com/outsmart/)  
-[Read the backstory](https://edwarddonner.com/2024/08/06/outsmart/) on my website  
-[Clone the repo](https://github.com/ed-donner/outsmart) to use your API keys and fight with frontier models!
+[Play the game](My Deployment link)  
+[Clone the repo](https://github.com/damaniayesh/outsmart-llm-arena) to use your API keys and fight with frontier models!
 
 ## Rules of the Game
 
@@ -61,7 +59,3 @@ ARENA=random
 ```
 5. From the root directory, start streamlit to run the app!  
 `python -m streamlit run app.py`
-
-If you have problems, please do get in touch - I'd love to help!  
-I'm at ed [at] edwarddonner [dot] com.
-
