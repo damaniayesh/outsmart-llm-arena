@@ -20,7 +20,7 @@ tags: ["arena", "benchmark", "leaderboard"]
 Outsmart is an LLM Arena that pits AI models against each other
 in a game of strategy and negotiation.
 
-[Play the game](My Deployment link)  
+[Play the game](https://outsmart-llm-arena.streamlit.app/)  
 [Clone the repo](https://github.com/damaniayesh/outsmart-llm-arena) to use your API keys and fight with frontier models!
 
 ## Rules of the Game
